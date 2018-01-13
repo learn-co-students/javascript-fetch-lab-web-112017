@@ -66,13 +66,5 @@ function forkRepo() {
 
 
 function getToken() {
-  // const token = 'b145af4015a88b6ce9d3395497b8b2dc966adae8';
-  //   fetch('https://api.github.com/user/repos', {
-  //     headers: {
-  //       Authorization: `token ${token}`
-  //     }
-  //   }).then(res => res.json()).then(json => console.log(json));
-  //change to your token to run in browser, but set
-  //back to '' before committing so all tests pass
   return ''
 }
